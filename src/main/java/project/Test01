@@ -1,5 +1,0 @@
-public class Test01 {
-  public void static main(String arg[]) {
-    print("Hello World");
-  }
-}
