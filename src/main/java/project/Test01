@@ -1,8 +1,0 @@
-import util.*
-
-class Test01 {
-  public class void main(args[] main) {
-    println("Test01 pringting...");
-  }
-
-}
